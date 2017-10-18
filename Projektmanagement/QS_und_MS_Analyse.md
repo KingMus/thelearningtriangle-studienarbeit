@@ -5,6 +5,10 @@
 | Typ | Was? | Bis wann? | Fertig? |
 | ------ | ------ | ------ | ------ |
 |  | <b>Entwicklung</b> |  |  |
+| QS | Absprache über SRS und SAD | 19.10.2017 - 26.10.2017  | |
+| MS | Grundlegende Use Cases sind definiert | 26.10.2017 | |
+| QS | Lesen von wissenschaftlichen Quellen und darüber diskutieren | 19.10.2017 - 02.11.2017 | |
+| MS | Grundwissen über AI angeeignet | 02.11.2017 | |
 | QS | Absprache über Festlegung der in TLT behandelten AI-Technologien | 01.11.2017 - 15.11.2017 | |
 | MS | Die in TLT behandelten Technologien sind festgelegt | 15.11.2017 | |
 |  | <b>Dokumentation & Projektmanagement</b> |  |  |
@@ -19,6 +23,8 @@
 
 * MS = Meilensteine
 * QS = Qualitätssichernde Maßnahmen
+* SRS = Software Requirement Specification
+* SAD = Software Architecture Document (entählt u.a. die Use Cases)
 
 ## Aufgetretene Probleme
 

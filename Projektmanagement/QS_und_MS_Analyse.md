@@ -26,6 +26,10 @@
 * SRS = Software Requirement Specification
 * SAD = Software Architecture Document (entählt u.a. die Use Cases)
 
+### Anmerkungen
+
+Da der detaillierte Projektinhalt noch nicht feststeht, werden weitere Meilensteine bist zum 16.11. festgelegt.
+
 ## Aufgetretene Probleme
 
 coming (hopefully not) soon

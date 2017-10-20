@@ -5,6 +5,7 @@
 | Typ | Was? | Bis wann? | Fertig? |
 | ------ | ------ | ------ | ------ |
 |  | <b>Entwicklung</b> |  |  |
+| QS | Diskussion über aktuelle Situation | zu jedem Sprintwechsel | |
 | QS | Absprache über SRS und SAD | 19.10.2017 - 26.10.2017  | |
 | MS | Grundlegende Use Cases sind definiert | 26.10.2017 | |
 | QS | Lesen von wissenschaftlichen Quellen und darüber diskutieren | 19.10.2017 - 02.11.2017 | |

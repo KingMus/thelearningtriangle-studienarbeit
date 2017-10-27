@@ -5,7 +5,7 @@
 | Typ | Was? | Bis wann? | Fertig? |
 | ------ | ------ | ------ | ------ |
 |  | <b>Entwicklung</b> |  |  |
-| QS | Diskussion über aktuelle Situation | zu jedem Sprintwechsel | erledigt für Sprint 1 |
+| QS | Diskussion über aktuelle Situation | zu jedem Sprintwechsel | durchgeführt für Sprint 1 |
 | QS | Absprache über SRS und SAD | 19.10.2017 - 26.10.2017  | verzögert sich |
 | MS | Grundlegende Use Cases sind definiert | 26.10.2017 | erreicht: grundlegende UC wurden in einem Brainstorming Dokument festgehalten |
 | QS | Lesen von wissenschaftlichen Quellen und darüber diskutieren | 19.10.2017 - 02.11.2017 | 26.10. Gespräch über NN und EA |

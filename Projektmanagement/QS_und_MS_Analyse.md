@@ -10,14 +10,14 @@
 | MS | Grundlegende Use Cases sind definiert | 26.10.2017 | erreicht: grundlegende UC wurden in einem Brainstorming Dokument festgehalten |
 | QS | Lesen von wissenschaftlichen Quellen und darüber diskutieren | 19.10.2017 - 02.11.2017 | 26.10.2017 Gespräch über NN und EA, 02.11.2017 Gespräch über Begriffe sowie DeepLearning |
 | MS | Grundwissen über AI angeeignet | 02.11.2017 | erreicht |
-| QS | Absprache über Festlegung der in TLT behandelten AI-Technologien | 01.11.2017 - 15.11.2017 | |
-| MS | Die in TLT behandelten Technologien sind festgelegt | 15.11.2017 | |
+| QS | Absprache über Festlegung der in TLT behandelten AI-Technologien | 01.11.2017 - 15.11.2017 | wurde am 15.11.2017 durchgeführt |
+| MS | Die in TLT behandelten Technologien sind festgelegt | 15.11.2017 | erreicht |
 | QS | Evaluierung der Erklärungstexte | 30.11.2017 - 11.01.2018 | |
 | MS | Erklärungstexte für das Spiel über das Themengebiet "Grundlagen AI" wurden formuliert | 11.01.2018 | |
 |  | <b>Dokumentation & Projektmanagement</b> |  |  |
-| QS | Termine zur weiteren Vorgehensweise; Thema: Planung MS, etc. | 02.11.2017 - 14.11.2017 | |
-| MS | Festlegung eines definierten, realisierbaren Projektumfangs/ -inhaltes ist abgeschlossen | 15.11.2017 | |
-| MS | Der aktuellen Situation entsprechende MS sind festgelegt | 16.11.2017 | |
+| QS | Termine zur weiteren Vorgehensweise; Thema: Planung MS, etc. | 02.11.2017 - 14.11.2017 | wurde abgehalten |
+| MS | Festlegung eines definierten, realisierbaren Projektumfangs/ -inhaltes ist abgeschlossen | 15.11.2017 | erreicht |
+| MS | Der aktuellen Situation entsprechende MS sind festgelegt | 16.11.2017 | erreicht |
 | QS | Reviews über gesammelte Begriffe und deren Erklärungen durchführen | 16.11.2017 - 30.11.2017 | |
 | MS | Begriffe (und Erklärungen) des Themengebiet "Grundlagen AI" sind erarbeitet | 30.11.2017 | |
 | QS | Regelmäßiges Zusammentragen der Ergebnisse zur Lernmethodik | 16.11.2017 - 14.12.2017 | |

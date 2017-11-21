@@ -9,4 +9,4 @@
 ## Tools
 * Zotero zur Sammlung der Quellen
 * jeweils Generierung einer .bib-Dateien
-* JabRef zum Zusammenführen der zwei Quelldateien
+* JabRef zum Vermeiden von doppelten Einträgen

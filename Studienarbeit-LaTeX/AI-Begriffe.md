@@ -1,20 +1,26 @@
 # Artificial Intelligence 
-* KI-Systeme haben die Fähigkeit zu lernen *(können die Fähigkeit haben)*
-* Müssen mit Unsicherheiten und problematischen Informationen umgehen können
-* Keine Schaffung von Bewusstsein, sondern Simulation intelligenten Verhaltens mittels Mathe und Informatik
-* Kein geschlossenes Forschungsgebiet (Techniken verschiedener Disziplinen)
 
-### starke KI
-* Menschliches Denken mechanisieren
-* Maschine, die wir Mensch reagiert
-* Eine Vision *(unklar ob in naher Zukunft realistisch)*
+### Definitionen
 
-### schwache KI
-* Konkrete Anwendungsprobleme des menschlichen Denkens meistern
-* *kaum vorhandene Begrenzungen an Einsatzgebieten*
-* Das Denken unterstützen
-* Viele kleine und große Erfolge wurden schon gefeiert
+[Oxford Dictionaries](https://en.oxforddictionaries.com/definition/artificial_intelligence): The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
 
+[Techopedia](https://www.techopedia.com/definition/190/artificial-intelligence-ai): Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans. Some of the activities computers with artificial intelligence are designed for include: Speech recognition, Learning, Planning, Problem solving
+
+Eine weitere Buchquelle?
+
+Artificial Intelligence, im folgenden AI, ist ein Bereich der Informatik, in dem an künstlichen Intelligenzen geforscht wird. Allerdings ist das Forschungsgebiet keinesfalls geschlossen. Viele andere Wissenschaften wirken bei der Entwicklung mit.  Es geht darum, Systeme zu entwickeln, die Aufgaben erledigen können, bei denen normalerweise menschliches Denken benötigt wird. Dazu gehören zum Beispiel Spracherkennung, Bilderkennung, Übersetzungen, Entscheidungen anhand mehrerer Faktoren richtig treffen und neue Dinge zu lernen. Entgegen der weit verbreiteten Vorstellungen muss eine AI nicht unbedingt die Fähigkeit haben, dazu zu lernen. Viele Systeme Klassifizieren "nur" die vorliegenden Daten, oder extrahieren wissen daraus. Ein ebenfalls weit verbreiteter Irtum ist, dass eine AI Intelligent ist, jedoch wird mittels Mathematik und Informatik lediglich intelligentes Verhalten simuliert. Von der Schaffung eines Bewusstseins ist die Forschung noch unabsehbar weit entfernt. 
+
+### starke künstliche Intelligenz
+Die Schaffung eines Bewusstseins wird durch den Begriff starke künstliche Intelligenz beschrieben. Sie beschäftigt sich damit, menschliches Denken zu mechanisieren, damit eine Maschine wie ein Mensch reagieren kann. Wie oben schon beschrieben, ist dieser Bereich von AI eher eine Vision. Es ist unklar, ob es realistisch ist, die Ziele in naher Zukunft zu erreichen.
+
+### schwache künstliche Intelligenz
+Die künstliche Intelligenz hingegen hat es sich zum Ziel gemacht, konkrete Anwendungsprobleme des menschlichen Denkens zu meistern und den Menschen "beim Denken" zu unterstützen. Da kaum Begrenzungen an Einsatzgebieten vorhanden sind, wurden schon viele kleine und große Erfolge in verschiedenen Bereichen gefeiert.
+
+### DataSets
+Damit die Algorthmen ordentlich arbeiten können ist es von enormer Wichtigkeit, die richtigen Daten im richtigen Format vorliegen zu haben. Diese Beziehung gilt natürlich auch umgekehrt. Der Algortimus muss umso besser werden, je größer die Unsicherheiten bzw. problematischen Informationen in den Daten sind. (zu ergänzen)
+
+### Der Turing-Test
+Der Turin-Test ist ein von Alan Turing entwickelter Test, welcher ein Maß dafür gibt, wie gut bzw. ob eine Maschine die Intelligenz eines Menschen gleichwertig simuliert. Seit 1991 existiert ein Preis für denjenigen, dessen Maschine den Test besteht. Bisher hat das aber noch niemand geschafft. Um den Test zu bestehen, darf die Testperson nicht unterscheiden können, ob es sich bei seinem Gesprächspartner an einem Terminal um einen echten Menschen oder eine Maschine handelt. Die Person stelllt dabei beliebige Fragen, ohne zu wissen, wer ihm antwortet. Kann die Person am Ende Mensch und Maschine nicht unterscheiden, hat die Maschine den Test bestanden.
   
 # Machine Learning
 ### Supervised Learning
@@ -35,11 +41,19 @@ Ganz im Gegensatz zu Supervised Learning steht Unsupervised Learning, zu deutsch
 
 Reinforcement Learning wählt einen Ansatz, bei dem ein Wert errechnet wird, der verbessert werden soll. Diesen Wert nennt man auch Fitness. Bei jedem Durchlauf wird als Ergebnis eine Zahl gegeben, die dem Algorithmus zeigen kann wie gut er war. Was dabei als gut zu bezeichnen ist, ist eine Frage der Kalibrierung. Ziel des Algorithmuses ist es die Fitness zu verbessern.
 
-### Deep Learning
+### Neural Network
+Die Idee zu [neuronalen Netzen](https://www.computerwoche.de/a/eine-kleine-geschichte-der-kuenstlichen-intelligenz,3330537,5) kam das erste Mal in den 1940er Jahren auf. Der Neuropsychologe und Kypernetiker Warren McCulloch entwickelte zusammen mit Walter Pitts, ebenfalls Psychologie spezialisiert auf die Kognition, das Modell des McCulloch-Pitts-Neurons. Er forschte dabei über die Funktionsweise des menschlichen Gehirns und entwickelte dabei die uns heute bekannte Auffassung über neuronale Netze. Die beiden Wissenschaftler konnten beweisen, dass mit einem endlichen Netz solcher sogenannten Neuronen turing-berechenbare Probleme gelöst werden können. Allerdings fehlte damals ein leistungsfähiger Computer, weswegen die Idee der Neuronalen Netze bis in die Mitte der 80er in den Hintergrund geriet. 
+
+Der aufkokmmende Konnektionismus orientierte sich wieder an dem menschlichen Gehirn als Vorbild. Die Grundidee bestand daraus, dass das Verarbeiten einer Information in vielen simplen einheitlichen Verarbeitungselementen paralell erfolgt. Die Forscher setzten also die bereits entwickelten Neuronen in einem Netz ein und brachten dem System anhand von Beispielsätzen das Sprechen bei. Das funktionierte bis zu einem gewissen Maß sehr gut, denn die Netze lernten gut und schnell. Allerdings waren die Cumputer zu der Zeit immer noch nicht leistungsfähig genug. Zudem fehlte es an genügend Trainingsdaten, sowie an Möglichkeiten diese zu strukturieren.
+
+Seit 2010 kommen die Neuronalen Netze nun richtig zur geltung. Ursachen dafür sind die nun vorhandenen ausreichenden Rechenleistungen und die zunehmende Verfügbarkeit an strukturierten Daten, mit denen die Algorithmen trainiert werden können. Weitere Aspekte sind die Weiterentwicklung der Neuronalen Netze, verbesserte Algorithmen und vor allem eine Variante der neuronalen Netze: Deep Learning.
+
+#### Deep Learning
 * Statische Datenerkennung
 * Gut für große Menge an "unlabeld" Data
 
-### Neural Network
+
+#### Elemente eines neuronalen Netzwerks
 * Elemente: Input, Hidden und Output Layer
 * Layer bestehen aus mehreren Nodes (entspr. Neuronen)
 * Nodes: Inputs, Weights (Gewichtung des Inputs), Net Input Function, Activation Function, Output

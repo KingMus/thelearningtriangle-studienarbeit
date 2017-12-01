@@ -64,6 +64,7 @@ Deep Neuronal Networks werden beim oben genannten Deep Learning verwendet. Der U
 * Fehlermessung
 * Aktualisierung der Gewichte
 * Weiter bei Punkt 1
+
 [Deep Learning](http://www.spektrum.de/news/maschinenlernen-deep-learning-macht-kuenstliche-intelligenz-praxistauglich/1220451) wird häufig zur statistischen Datenerkennung verwendet und eignet sich aufgrund der großen Lernfähigkeit sehr gut für eine große Menge an "unlabeld Data". Das ist auch der Grund, warum Deep Learning in letzter Zeit einen so großen Aufschwung erlebt. Denn der größte Teil an Daten liegt unkategorisiert vor. Unteranderem mit Hilfe von Deep Learning konnte im Januar 2016 der Weltmeister im Spiel Go durch eine Maschine besiegt werden. Doch  nicht nur beim Go spielen dominiert Deep Learning, das Spracherkennungsmodul von Appels Siri basiert ebenfalls auf diesem Verfahren.
 
 

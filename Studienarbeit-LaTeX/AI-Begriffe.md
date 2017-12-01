@@ -95,17 +95,41 @@ NLP beschreibt ein großes Teilgebiet des Machine Learnings, die Sprachverarbeit
 
 # Einsatzgebiete: 
 ### BigData
-* Big Data bezeichnet die Analyse großer Datenmengen aus vielfältigen Quellen in hoher Geschwindigkeit.
-* Die 4 V's
-  * Volume: Menge der Daten
-  * Veracity: Zusammenhänge der Daten
-  * Velocity: Geschwindigkeit
-  * Variety: DDatenvielfalt
+
+#### Definition
+Big Data stellt keine neue Art von Daten dar, sondern vielmehr charakterisiert es, wie Daten heute immer häufiger auftreten. Um die Daten zu Charakterisieren wird oftmals das 4 V Modell von IBM verwendet. Folgende Tabelle zeigt die 4 Vs und ihre Bedeutung.
+
+| V | Bedeutung | Beschreibung |
+| ----- | ----- | ------- |
+| Volume | Menge der Daten | Im Jahr 2016 umfasste das Weltweite Datenvolumen 16,1 Zettabyte (1 Zettabyte = 1 Mrd. TB). Für 2025 wird eine verzehnfachung erwartet |
+| Variety | Datenvielfalt | Die Daten liegen in vielen verschiedenen Formaten wie zum Beispiel Mediendateien, Textdatein, etc. vor. Dabei ist der große Anteil der Daten unstrukturiert. |
+| Velocity | Geschwindigkeit | Der Zugriff auf die Daten muss größtenteils in Echtzeit erfolgen, damit eine Auswertung sinnvoll ist. Hierfür braucht es gute Algorithmen sowie die entschprechende Rechenpower. |
+| Veracity | Aussagekraft | Das letzte der vier V steht für die Vertrauenswürdigkeit der Daten. Das Prinzip "Garbage In- Garbage Out", welches in dem Zusammenhang oftmals erwähnt wird besagt, dass nur wenn gute Daten durch einen guten Algorithmus analysiert werden, auch gute Ergebnisse erwartet werden können. Sobald der Algorithmus schlecht ist, ist der Output so gut wie unbrauchbar.|
+
+#### Zusammenhang mit AI
+Um die große Menge an Daten Effizient auswerten zu können, werden oftmals künstliche Intelligenzen eingesetzt. Die verschiedenen Modelle können die große Datenflut in der gegebenen Zeit besser bewältigen als der Mensch. Allerdings ist es unverzichtbar, wie das vierte V zeigt, auf ein gutes Model zu bauen. Big Data stellt also ein großes Einsatzgebiet für Artificial Intelligence dar.
+
 ### Data-Mining
 * systematische Anwendung statistischer Methoden auf große Datenbestänge 
 * Ziel: neue Querverbindungen und Trends erkennen
+
+Unter [Data Mining](https://www.bigdata-insider.de/was-ist-data-mining-a-593421/ "Data Mining") versteht man die systematische Anwendung statistischer Methoden und Verfahren aus dem Bereich Artificial Intelligence auf einen vorliegenden Datenbestand. Das Ziel von Data Mining ist es, neue Querverbindungen, Trends und relevante Zusammenhänge in den Daten zu erkennen und diese zu exrahieren. Data Mining und Big Data werden oft im selben Kontext benutzt. Allerdings bedeuten sie nicht das gleiche, wie fälschlicherweise oft angenommen. Big Data bezeichnet die Analyse großer Datenmengen aus vielfältigen Quellen in hoher Geschwindigkeit. Wie in Kapitel (Big Data) beschrieben ist eine Analyse der Daten mit herkömmlichen Toolsund Methoden in realistischer Zeit kaum mehr möglich. Big Data bietet hierfür die technische Plattform. Data Mining ist hingegen nicht auf große Datenmengen begrenzt, auch wenn es dort oft eingesetzt wird, und beschreibt den eigentlichen Vorgang der Analyse der Daten. 
+
+Für Data Mining gibt es verschiedene Aufgabenbereiche mit einem jeweiligen Ziel.
+* Klassifikation: Zuordnung von Datenobjekten auf Klassen.
+* Segmentierung: Zuammenfassung von Objekte mit gemeinsamen Merkmalen zu einer Gruppe.
+* Prognose: Vorhersage von unbekannten Merkmalen auf Basis von bereitz bekannten Merkmalen und zuvor gewonnenen Erkenntnissen.
+* Abhängigkeitsanalyse: Beziehungen zwischen Objekten bzw. den Merkmalen der Objekte finden.
+* Abweichungsanalyse: Erkennen von Objekten, die nicht den Regeln der anderen Objekte entsprechen.
+
+Angewandt werden kann Data Mining sehr vielfältig. Eine Möglichkeit ist der Einsatz bei der Entscheidungsfindung bei bestimmten Problemen. Zum Beispiel kann im Handel das Kaufverhalten von Kunden analysieren und Ihnen daraufhin passende Angebote machen bzw. entscheiden, ob der Kunde zahlungsfähig oder zahlungsunfähig ist. Banken und Versicherungen können Data Mining nutzen um Risikoanalysen durchzuführen.
+
 ### Robotik
 * Interaktion mit der physischen Welt auf Prinzipien der IT/technisch machbare Kinetik übertragen
 * Nachvollziehen von Verhaltensweisen
 * z.B. Autos lackieren, Mienensuche
+
+In der Robotik geht es vorrangig darum die Interaktion mit der physischen Welt auf Prinzipien der IT und technisch machbare Kinetik zu übertragen. Beliebte Einsatzgebiete sind solche, die für den Menschen gefährlich sein können, wie zum Beispiel das Suchen nach Mienen oder das Lackieren von Autos. Das hat ersteinmal nichts mit Artificial Intelligence zu tun. Allerdings liegt es durchaus im Bereich des Möglichen die beiden Themenbereiche zu kombinieren. 
+
+Doch dabei werden viele Ethische Fragen aufgeworfen, wie zum Beispiel "Ist ein Roboter mit einer KI ein lebendiges Wesen, welches das Recht auf leben besitzt?". Die größte und momenta aktuelle Diskussion ist wohl die zwischen Tesla Gründer Elon Musk und Facebook Gründer Mark Zuckerberg. Letzterer sieht in AI viele Vorteile für die Zukunft. Elon Musk hingegen befürchtet dass die Kombination aus AI und Roboter zu einer tödlichen Waffe nicht nur gegen einzelne Menschen werden kann, sondern für die gesammte Menschheit. Einige Experten haben einen Brief an die Vereinten Nationen geschrieben und gebeten, die Entwicklung und Nutzung von autonomen Waffensystemen zu verbieten. Dies zeigt, dass es in Zukunft wichtig sein könnte, bestimmte Regularien im Bezug auf AI aufzustellen, damit diese großartige Technologie nur im positiven Sinn eingesetzt wird.
 

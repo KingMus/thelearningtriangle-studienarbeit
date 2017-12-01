@@ -46,17 +46,11 @@ Die Idee zu [neuronalen Netzen](https://www.computerwoche.de/a/eine-kleine-gesch
 
 Der aufkokmmende Konnektionismus orientierte sich wieder an dem menschlichen Gehirn als Vorbild. Die Grundidee bestand daraus, dass das Verarbeiten einer Information in vielen simplen einheitlichen Verarbeitungselementen paralell erfolgt. Die Forscher setzten also die bereits entwickelten Neuronen in einem Netz ein und brachten dem System anhand von Beispielsätzen das Sprechen bei. Das funktionierte bis zu einem gewissen Maß sehr gut, denn die Netze lernten gut und schnell. Allerdings waren die Cumputer zu der Zeit immer noch nicht leistungsfähig genug. Zudem fehlte es an genügend Trainingsdaten, sowie an Möglichkeiten diese zu strukturieren.
 
-Seit 2010 kommen die Neuronalen Netze nun richtig zur geltung. Ursachen dafür sind die nun vorhandenen ausreichenden Rechenleistungen und die zunehmende Verfügbarkeit an strukturierten Daten, mit denen die Algorithmen trainiert werden können. Weitere Aspekte sind die Weiterentwicklung der Neuronalen Netze, verbesserte Algorithmen und vor allem eine Variante der neuronalen Netze: Deep Learning.
-
-#### Deep Learning
-* Statische Datenerkennung
-* Gut für große Menge an "unlabeld" Data
-
+Seit 2010 kommen die Neuronalen Netze nun richtig zur geltung. Ursachen dafür sind die nun vorhandenen ausreichenden Rechenleistungen und die zunehmende Verfügbarkeit an strukturierten Daten, mit denen die Algorithmen trainiert werden können. Weitere Aspekte sind die Weiterentwicklung der Neuronalen Netze, verbesserte Algorithmen und vor allem eine Variante der neuronalen Netze: Deep Learning. In Abschnitt (DL) wird DeepLearning genauer betrachtet.
 
 #### Elemente eines neuronalen Netzwerks
-* Elemente: Input, Hidden und Output Layer
-* Layer bestehen aus mehreren Nodes (entspr. Neuronen)
-* Nodes: Inputs, Weights (Gewichtung des Inputs), Net Input Function, Activation Function, Output
+Jedes neuronale Netz besteht aus vielen Neuronen oder auch Knoten, welche untereinander auf eine bestimmte Art und Weise vernetzt sind. Die Art der Vernetzung, auch Topologie genannt ist abhängig von dem zu lösenden Problem und sollte gut durchdacht sein. Das Netz kann in verschiedene Layer aufgeteilt werden: Input, Hidden und Output Layer. Dabei besteht jedes Layer aus einer beliebigen Anzahl von Knoten. 
+Jeder Input kann geweichtet werden und jeder Output kann durch einen Optimierungsalgorithmus optimiert werden. 
 
 #### Convolutional NN
 * *Faltung*
@@ -64,14 +58,14 @@ Seit 2010 kommen die Neuronalen Netze nun richtig zur geltung. Ursachen dafür s
 * *komplexer Algorithmus der Teilbereiche größerer Bereiche herunterdrosselt und vereinfacht*
 
 #### Deep NN
-* Mehrere Hidden Layer
-* Ziel des Trainings: möglichst geringer Fehler des Outputs
-* Training: 
-  * Netz durchlaufen
-  * Vermutung aussprechen
-  * Fehlermessung
-  * Aktualisierung der Gewichte
-  * Weiter bei Punkt 1
+Deep Neuronal Networks werden beim oben genannten Deep Learning verwendet. Der Unterschied zu einem gewöhnlichen neuronalen Netzes besteht darin, dass es über mehrere Hidden Layer verfügt. Das Ziel des Trainings ist es, einen möglichst geringen Fehler im Output zu erreichen.  Ein Training durchläuft normalerweise folgende Phasen:
+* Netz durchlaufen
+* Vermutung aussprechen
+* Fehlermessung
+* Aktualisierung der Gewichte
+* Weiter bei Punkt 1
+[Deep Learning](http://www.spektrum.de/news/maschinenlernen-deep-learning-macht-kuenstliche-intelligenz-praxistauglich/1220451) wird häufig zur statistischen Datenerkennung verwendet und eignet sich aufgrund der großen Lernfähigkeit sehr gut für eine große Menge an "unlabeld Data". Das ist auch der Grund, warum Deep Learning in letzter Zeit einen so großen Aufschwung erlebt. Denn der größte Teil an Daten liegt unkategorisiert vor. Unteranderem mit Hilfe von Deep Learning konnte im Januar 2016 der Weltmeister im Spiel Go durch eine Maschine besiegt werden. Doch  nicht nur beim Go spielen dominiert Deep Learning, das Spracherkennungsmodul von Appels Siri basiert ebenfalls auf diesem Verfahren.
+
 
 ### Classification
 * *Klassifizierung von Dingen*

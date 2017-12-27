@@ -20,7 +20,7 @@
 | MS | Der aktuellen Situation entsprechende MS sind festgelegt | 16.11.2017 | erreicht |
 | QS | Reviews über gesammelte Begriffe und deren Erklärungen durchführen | 16.11.2017 - 30.11.2017 | durchgeführt |
 | MS | Begriffe (und Erklärungen) des Themengebiet "Grundlagen AI" sind erarbeitet | 30.11.2017 | erreicht |
-| QS | Regelmäßiges Zusammentragen der Ergebnisse zur Lernmethodik | 16.11.2017 - 14.12.2017 | regelmäßige absprechen wurden getroffen |
+| QS | Regelmäßiges Zusammentragen der Ergebnisse zur Lernmethodik | 16.11.2017 - 14.12.2017 | regelmäßige Absprachen wurden getroffen |
 | MS | Lernmethodik des Themengebiet "Grundlagen AI" ist erarbeitet | 14.12.2017 | erreicht |
 | QS | Review der geschriebenen Absätze durch die jeweils andere Person | 16.11.2017 - 11.01.2018 | |
 | MS | Projektarbeit zu 80% fertiggestellt | 28.12.2017 | |

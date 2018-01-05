@@ -5,7 +5,7 @@
 | Typ | Was? | Bis wann? | Fertig? |
 | ------ | ------ | ------ | ------ |
 |  | <b>Entwicklung</b> |  |  |
-| QS | Diskussion über aktuelle Situation | zu jedem Sprintwechsel | durchgeführt für Sprint 1-5 |
+| QS | Diskussion über aktuelle Situation | zu jedem Sprintwechsel | durchgeführt für Sprint 1-6 |
 | QS | Absprache über SRS und SAD | 19.10.2017 - 26.10.2017  | review am 02.11.2017 durchgeführt |
 | MS | Grundlegende Use Cases sind definiert | 26.10.2017 | erreicht: grundlegende UC wurden in einem Brainstorming Dokument festgehalten |
 | QS | Lesen von wissenschaftlichen Quellen und darüber diskutieren | 19.10.2017 - 02.11.2017 | 26.10.2017 Gespräch über NN und EA, 02.11.2017 Gespräch über Begriffe sowie DeepLearning |
@@ -22,8 +22,8 @@
 | MS | Begriffe (und Erklärungen) des Themengebiet "Grundlagen AI" sind erarbeitet | 30.11.2017 | erreicht |
 | QS | Regelmäßiges Zusammentragen der Ergebnisse zur Lernmethodik | 16.11.2017 - 14.12.2017 | regelmäßige Absprachen wurden getroffen |
 | MS | Lernmethodik des Themengebiet "Grundlagen AI" ist erarbeitet | 14.12.2017 | erreicht |
-| QS | Review der geschriebenen Absätze durch die jeweils andere Person | 16.11.2017 - 11.01.2018 | |
-| MS | Projektarbeit zu 80% fertiggestellt | 28.12.2017 | |
+| QS | Review der geschriebenen Absätze durch die jeweils andere Person | 16.11.2017 - 11.01.2018 | jeweils nach Fertigstellung eines Abschnitts durchgeführt |
+| MS | Projektarbeit zu 80% fertiggestellt | 28.12.2017 | erreicht |
 | QS | Korrekturlese der bisherigen Arbeit | 28.12.2017 - 11.01.2018 | |
 | MS | Projektarbeit abgabebereit (Korrekturlese abgeschlossen) | 11.01.2018 | |
 | MS | Zu 80% fertiggestellte Projektarbeit abgegeben | 15.01.2018 | |

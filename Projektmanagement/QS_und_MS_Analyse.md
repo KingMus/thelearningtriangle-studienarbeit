@@ -12,8 +12,8 @@
 | MS | Grundwissen über AI angeeignet | 02.11.2017 | erreicht |
 | QS | Absprache über Festlegung der in TLT behandelten AI-Technologien | 01.11.2017 - 15.11.2017 | wurde am 15.11.2017 durchgeführt |
 | MS | Die in TLT behandelten Technologien sind festgelegt | 15.11.2017 | erreicht |
-| QS | Evaluierung der Erklärungstexte | 30.11.2017 - 11.01.2018 | |
-| MS | Erklärungstexte für das Spiel über das Themengebiet "Grundlagen AI" wurden formuliert | 11.01.2018 | |
+| QS | Evaluierung der Erklärungstexte | 30.11.2017 - 11.01.2018 | mehrfach durchgeführt |
+| MS | Erklärungstexte für das Spiel über das Themengebiet "Grundlagen AI" wurden formuliert | 11.01.2018 | erreicht |
 |  | <b>Dokumentation & Projektmanagement</b> |  |  |
 | QS | Termine zur weiteren Vorgehensweise; Thema: Planung MS, etc. | 02.11.2017 - 14.11.2017 | wurde abgehalten |
 | MS | Festlegung eines definierten, realisierbaren Projektumfangs/ -inhaltes ist abgeschlossen | 15.11.2017 | erreicht |
@@ -24,8 +24,8 @@
 | MS | Lernmethodik des Themengebiet "Grundlagen AI" ist erarbeitet | 14.12.2017 | erreicht |
 | QS | Review der geschriebenen Absätze durch die jeweils andere Person | 16.11.2017 - 11.01.2018 | jeweils nach Fertigstellung eines Abschnitts durchgeführt |
 | MS | Projektarbeit zu 80% fertiggestellt | 28.12.2017 | erreicht |
-| QS | Korrekturlese der bisherigen Arbeit | 28.12.2017 - 11.01.2018 | |
-| MS | Projektarbeit abgabebereit (Korrekturlese abgeschlossen) | 11.01.2018 | |
+| QS | Korrekturlese der bisherigen Arbeit | 28.12.2017 - 11.01.2018 | mehrfach durchgeführt |
+| MS | Projektarbeit abgabebereit (Korrekturlese abgeschlossen) | 11.01.2018 | erreicht am 14.01.2018 |
 | MS | Zu 80% fertiggestellte Projektarbeit abgegeben | 15.01.2018 | |
 | MS | Zu 100% fertiggestellte Projektarbeit abgegeben | letzte Aprilwoche 2018 | |
 
@@ -59,3 +59,4 @@ Update:  MS bis zum Ende des Semesters sind festgelegt, die MS für das zweite H
 ## Aufgetretene Probleme
 
 * Die QS Maßnahme "Absprache über SRS und SAD" hat sich aufgrund von Verzögerung der Bearbeitung um eine Woche verschoben.
+* Der Meilenstein Projektarbeit abgabebereit (Korrekturlese abgeschlossen) wurde 3 tage später wie geplant erreicht. Allerdings stellt dies kein großes Problem dar, da ein Puffer eingeplant wurde und die Abgabe am 15.01.2018 nicht gefährdet wurde.

@@ -12,7 +12,10 @@
 ## Nützliche Links
 
 [Unity Dokumentation](https://docs.unity3d.com/Manual/index.html)
+
 [Gute deutsche Tutorials](https://www.youtube.com/channel/UCySwO3rPaqdaUkYh9WyR1XQ)
+
 [Unity Tutorials](https://unity3d.com/de/learn/tutorials)
+
 [ML](https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/?_ga=2.43938918.295631293.1519493380-2066594556.1519390767)
 

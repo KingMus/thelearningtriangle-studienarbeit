@@ -14,6 +14,8 @@
 | MS | Die in TLT behandelten Technologien sind festgelegt | 15.11.2017 | erreicht |
 | QS | Evaluierung der Erklärungstexte | 30.11.2017 - 11.01.2018 | mehrfach durchgeführt |
 | MS | Erklärungstexte für das Spiel über das Themengebiet "Grundlagen AI" wurden formuliert | 11.01.2018 | erreicht |
+| MS | alle grundlegenden Level (also nicht "Deep Learning") sind in Unity umgesetzt | 09.04.2018 | |
+| MS | Projekt zu 100% (im Bezug auf den in der Studienarbeit festgelegten Rahmen) fertiggestellt | 07.05.2018 | |
 |  | <b>Dokumentation & Projektmanagement</b> |  |  |
 | QS | Termine zur weiteren Vorgehensweise; Thema: Planung MS, etc. | 02.11.2017 - 14.11.2017 | wurde abgehalten |
 | MS | Festlegung eines definierten, realisierbaren Projektumfangs/ -inhaltes ist abgeschlossen | 15.11.2017 | erreicht |
@@ -26,8 +28,10 @@
 | MS | Projektarbeit zu 80% fertiggestellt | 28.12.2017 | erreicht |
 | QS | Korrekturlese der bisherigen Arbeit | 28.12.2017 - 11.01.2018 | mehrfach durchgeführt |
 | MS | Projektarbeit abgabebereit (Korrekturlese abgeschlossen) | 11.01.2018 | erreicht am 14.01.2018 |
-| MS | Zu 80% fertiggestellte Projektarbeit abgegeben | 15.01.2018 | |
-| MS | Zu 100% fertiggestellte Projektarbeit abgegeben | letzte Aprilwoche 2018 | |
+| MS | Zu 80% fertiggestellte Projektarbeit abgegeben | 15.01.2018 | fertig |
+| QS | Korrekturlese der fertiggestellten Arbeit | 26.03.2017 -07.05.2018 | |
+| MS | fertiggestellte Projektarbeit abgabebereit (Korrekturlese abgeschlossen) | 07.05.2018 | |
+| MS | Zu 100% fertiggestellte Projektarbeit abgegeben | 09.05.2018 | |
 
 
 ### Legende

@@ -1,0 +1,98 @@
+\chapter{Die Lernmethodik in TLT}
+\label{lernmethodik_chapter}
+
+Dieser Abschnitt erklärt die für den Erfolg des \textit{Educational Games} notwendige Lernmethodik. Dabei wird für die verschiedenen in Kapitel \ref{lernbareTechnologien} erklärten Technologien erläutert, wie sie in TLT umgesetzt werden sollen.
+
+\section{Artificial Intelligence im Allgemeinen}
+\label{lm_aiallgemein}
+
+Diese Lektion soll den Nutzer in das Thema AI einführen. Dabei geht es um das ganze Themengebiet und nicht nur \textit{Machine Learning}, da dieses Thema aufgrund der Wichtigkeit für dieses Projekt eine eigene Lektion bekommt.
+
+Da es sich hier wieder um mehr oder weniger rein informative Themen handelt, wird das Format des Quiz gewählt. Zum Beispiel soll in der Lektion ein Sinn dafür entwickelt werden, wo AI überall schon zum Einsatz kommt. Dafür werden dem Nutzer mehrere Bilder wie beispielsweise das eines Schachcomputers gezeigt und er muss entscheiden, ob AI im Einsatz ist, oder nicht. Es soll klar werden, dass schon diese einfache Form einer Simulation von Intelligenz als AI bezeichnet wird. In der Lektion soll der Nutzer auch den Unterschied zwischen starker und schwacher künstlicher Intelligenz lernen können, sowie den Turing-Test und die Wichtigkeit von gut formatierten Daten für die Algorithmen kennen lernen.
+
+\section{Machine Learning im Allgemeinen}
+\label{lm_mlallgemein}
+
+Bevor damit begonnen werden kann, Begriffe aus dem Bereich \textit{Machine Learning} zu erklären, muss zuerst erklärt werden, was \textit{Machine Learning} eigentlich ist. Ebenso muss die Frage geklärt werden, warum diese Technologie existiert und wieso es Sinn macht, sie einzusetzen. Zu guter Letzt muss aufgezeigt werden, welche Vorbedingungen für den Einsatz von \textit{Machine Learning} existieren, da es nicht ohne weiteres in jeder Umgebung verwendet werden kann.
+
+Ein wichtiger Grundgedanke von \textit{Machine Learning} ist die Automatisierung einer oftmals für einen Menschen leicht aber langwierig zu lösenden Aufgabe. Um dem Nutzer diesen Gedanken mitzugeben, soll er das Triangle durch ein sehr leichtes Level ohne besondere Felder navigieren. Die maximale Schwierigkeit des Levels besteht darin, hin und wieder aufgrund einer Wand die gerade, direkte Strecke zu ändern und die Richtung zu wechseln. Dieses Level soll innerhalb kurzer Zeit zu lösen sein. Der Spieler wird nun gebeten, dieses Level zu lösen. Nach erfolgreichem Lösen wird ihm ein ebenso leichtes, nahezu identisches Level gegeben. Dieser Vorgang wird nun mehrmals wiederholt. Die bei dem Spieler auszulösende Reaktion soll dabei Verwirrung und Unverständnis sein. Kurz bevor er die Motivation verliert wird eine Nachricht eingeblendet, die in leicht sarkastischem Ton fragt, ob die Aufgabe Spaß mache. Die zu erwartende Antwort des Spielers ist anschließend ein geeigneter Übergang in den Themenbereich Automatisierung, da praktisch festgestellt worden ist, dass es Zeit spart, einmal einen Algorithmus zu schreiben, anstatt 100 Mal ein Level zu spielen. 
+
+Noch fehlt in diesem Beispiel die Verbindung zu \textit{Machine Learning}, welche aber durch ein ähnliches Vorgehen geknüpft werden soll. Aufgrund der Einfachheit des oben genannte Beispiels ist es nicht nötig, mehr als einen einfachen Algorithmus zu schreiben, der die Wände meidet. Wegen dieses Umstandes ist das Beispiel nicht geeignet, um den Einsatz von \textit{Machine Learning} zu rechtfertigen. Es muss ein Beispiel gewählt werden, bei dem ein simpler Algorithmus nicht mehr mächtig genug ist. Dafür eignet sich die Klassifizierung von Bildern. Im nächsten Erklärschritt wird deshalb eine Bilderkennung simuliert, bei der der Nutzer beantworten soll, was auf einem Bild dargestellt wird. Die Zielgruppe Entwickler kennt dabei das Problem, dass nicht einfach geprüft werden kann, ob bestimmte Pixel in einem eindeutigen Muster gesetzt sind, da jedes Bild durch seine Vielzahl an Pixeln zu unterschiedlich und unregelmäßig ist, um durch simple Regeln abgebildet werden zu können. 
+
+Die letzte wichtige Fähigkeit von \textit{Machine Learning} soll wieder mithilfe von TLT gezeigt werden. Erneut wird eine sehr simple Map gezeigt, welche aber fünf verschiedene Wege vom Start zum Ziel bietet. Jeder Weg führt aber unweigerlich an einem besonderen Bodenfeld vorbei, welches betreten werden muss. Der Spieler kennt zu diesem Zeitpunkt die in Kapitel \ref{subsubsec_oberweltregeln} vorgestellten Felder. Für dieses Beispiel werden deshalb fünf komplett neue Felder eingeführt, die nur hier gelten. Dabei ist es wichtig, dass sich an ihrem Design nicht erkennen lässt, welche Funktion sie haben. Vier von fünf Felder führen zum unweigerlichen Tod. Der Spieler hat keine andere Wahl als blind auszuprobieren, welches der Felder das Triangle nicht tötet. Dabei verwendet er seine Lernfähigkeit, der namensgebenden Aspekt, mit dem auch \textit{Machine Learning} Algorithmen ausgestattet sind. Er wird lernen, welche Felder zum Tod geführt haben und diese in Zukunft meiden. Mit einer kleinen Erklärung kann die Wichtigkeit dieser Fähigkeit für Algorithmen klargestellt werden.
+
+Nachdem nun Eigenschaften und Nutzen erklärt wurden, muss als letztes über Vorbedingung unterrichtet werden. Nicht jede Systemumgebung lässt sich mit \textit{Machine Learning} Algorithmen zusammensetzen und nicht jedes durch Algorithmen zu lösende Problem rechtfertigt den Einsatz von AI. Als wichtigstes herauszuarbeitendes Problem kann die Datengrundlage angesehen werden, die darüber entscheidet, wie qualitativ der Algorithmus arbeitet. Es soll dem Anwender klargemacht werden, dass sauber und einheitlich aufgeschrieben Daten essentiell für einen funktionierenden \textit{Machine Learning} Algorithmus sind und deshalb immer zuerst darauf geachtet werden muss, dass diese Vorbedingung gewährleistet sind.
+
+\section{Machine Learning Ansätze}
+\label{lm_mlansaetze}
+Nach dem der Spieler, wie in Abschnitt \ref{lm_mlallgemein} beschrieben, gelernt hat, was \textit{Machine Learning} ist, kann er nun die drei verschiedenen Ansätze \textit{Reinforcement Learning}, \textit{Supervised Learning} und \textit{Unsupervised Learning} lernen, welche in Abschnitt \ref{machinelearning_ansaetze} ausführlich erklärt wurden.  
+
+Die drei Ansätze sollen dem Spieler anhand von Bildern und Beispielen jeweils kurz erklärt werden. Damit sie verinnerlicht werden, gibt es zu jedem Ansatz eine Aufgabe. Im Folgenden soll die Lernmethodik für den Ansatz \textit{Reinforcement Learning} genauer beschrieben werden. Da für die beiden anderen Ansätze  die selbe Lernmethodik gewählt wird, werden diese hier nicht mehr genauer ausgeführt.
+
+Um die Aufgabe zu lösen muss sich der Spieler überlegen, wie der sogenannte \textit{reward} berechnet wird. Dazu bekommt er eine Ausgangssituation in Form einer Map mit den bereits bekannten Feldern. Zusätzlich erhält der Spieler eine Übersicht der Felder und je Feld die Möglichkeit einen Wert einzugeben. 
+
+Der Spieler muss nun für jedes Feld eine Zahl festlegen. Danach kann er die Animation des Dreiecks auf der vorgegebenen Map starten. Das Dreieck läuft dann so lange, bis es keine Energie mehr besitzt. Bleibt das Dreieck stehen, bekommt der Spieler den \textit{reward}.
+Der Spieler hat nun die Aufgabe, die einzelnen Zahlen der Felder so zu verändern, dass er den vorgegebenen bestmöglichen \textit{reward} erzielt. 
+
+Somit handelt der Spieler so, wie es ein Algorithmus nach dem \textit{Reinforcement Learning} Ansatz tun würde und lernt dabei, seine Denkweise danach auszurichten.
+
+\section{Machine Learning Techniken}
+\label{lm_mltechniken}
+
+Für verschiedene Verwendungen von \textit{Machine Learning} Algorithmen gibt es verschiedene Ansätze, die in Kapitel \ref{machinelearning_ansaetze} erklärt werden. Unterhalb dieser Ansätze können verschiedene Techniken implementiert werden, die dem Nutzer ebenso näher gebracht werden sollen. Dabei werden alle Techniken in dieser Lektion vereint und erklärt. Einen Zusammenhang zu TLT herzustellen ist dabei nicht immer möglich, da bestimme Techniken nur bei bestimmten Einsatzgebieten relevant sind.
+
+\textit{Classification} lässt sich am besten durch eine Aufgabe erklären. Da erst eine Wissensgrundlage aufgebaut werden muss kann genau dieser Umstand dazu verwendet werden, dem Nutzer einen Einstieg zu geben. Dabei wird er mit der Fragestellung konfrontiert, warum er beispielsweise ein Objekt benennen kann, auch wenn er es noch nie gesehen hat (beispielsweise einen unbekannten Stift, der aufgrund gewisser Merkmale aber ganz klar als Stift erkennbar ist). Die Antwort liegt in seiner Wissensgrundlage, wie bestimmte Objekte aussehen. Nun kann ein Schritt weiter gedacht werden, sodass der Nutzer nun Wissensgrundlagen erstellen und bewerten darf. Dabei wird vor allem auf Kriterien wie Menge, Qualität, Gleichheit und Bezug der Datensätze bewertet. 
+
+Ähnlich wie \textit{Classification} ist \textit{Clustering}, allerdings fehlt hier der Datensatz als Wissensgrundlage (unsupervised). Hier soll ebenfalls mittels Einbindung des Spielers ein Verständnis des Prinzips gewährleistet werden. Dazu wird dem Nutzer eine kleine Menge an Formen gegeben, die sich durch bestimmte Eigenschaften gruppieren lassen. Der Nutzer soll diese ordnen und tut damit genau das, was später ein Clustering-Algorithmus tun würde.
+
+Regression ist ein Begriff der Mathematik, der Zahlen als Input und als Output verlangt. Hier lässt sich als gutes Beispiel die Preiskalkulation eines Produktes anhand bestimmter Eigenschaften wie Material, Größe, Produktionskosten oder Alter durch \textit{Machine Learning} anführen. Auch hier kann vom Spieler verlangt werden, in die Rolle der AI zu schlüpfen und anhand des Wissens über die Eigenschaften von Objekten ein Ergebnis zu bestimmen. 
+
+Für alle drei Bereiche gilt die Tatsache, dass die Beispiele vereinfacht sind und in realen Situation Ausgangssituationen existieren die viel komplexer als solch eine einfache Modellierung sind. Aus genau diesem Grund übernehmen auch Algorithmen diese Aufgabe. Diese Botschaft muss dem Spieler auf jeden Fall mitgegeben werden, sonst entsteht ein falsches Bild von der Praxisanwendung der Theorie. 
+
+\section{Neural Network}
+
+Das Wissen, welches dem Spieler über Neuronale Netze vermittelt werden soll, kann in drei Kategorien eingeteilt werden. Den Aufbau und die einzelnen Elemente eines Neuronalen Netzes, die Funktionsweise, sowie deren Geschichte. Letztere ist nicht unbedingt notwendig und eher für interessierte Spieler gedacht. Deshalb soll es die Möglichkeit geben, dass sich der Spieler dieses Wissen in einem separat spielbaren Quiz, wie schon unter \ref{lm_einsatzgebiete} beschrieben, aneignet.
+
+Zu Beginn der Lektion ist es zunächst wichtig, dem Spieler die einzelnen Elemente eines Neuronalen Netzes zu erklären. Dies wird, wie gewohnt, über die Sprechblasen des Dreiecks und erklärende Bilder realisiert. Dabei wird auch auf die Unterschiede von \glqq normalen\grqq{} neuronalen Netzen zu \textit{Deep Neuronal Networks} und \textit{Convolutional Neuronal Networks} eingegangen. Im Anschluss daran, hat der Spieler die Möglichkeit dieses Wissen durch ein paar Aufgaben zu vertiefen. 
+
+Aufgabe 1: Dem Spieler werden alle Elemente eines Neuronalen Netzes zur Verfügung gestellt, welche er durch \glqq Drag and Drop\grqq{} in die richtige Reihenfolge bringen muss. Dadurch prägt sich der Aufbau eines Neuronalen Netzes besser ein.
+
+Aufgabe 2: In dieser Aufgabe muss der Spieler ein graphisch dargestelltes (\textit{Deep/Convolutional}) Neuronales Netz zuordnen oder benennen.
+
+Die letzte Kategorie beinhaltet die Funktionsweise von Neuronalen Netzen. Um diese möglichst einfach erklären zu können, wird nach und nach eine beispielhafte Netzwerktopologie, anhand von einem TLT-Beispiel aufgebaut. Dabei wäre es auch möglich, den Nutzer über die Auswahl von weiteren Schritten mit einzubinden. Da TLT derzeit ein \textit{Deep Neuronal Network} verwendet, wird die Funktionsweise eines Neuronalen Netzes daran erklärt.
+
+Um das Beispiel zu vereinfachen werden statt einem Sichtfeld von neun Felder nur vier Felder genommen, und zwar: oben, unten, rechts und links. Diese gehen als Input in das Netzwerk, als Output wird eine Richtung angegeben. Eine weitere Vereinfachung besteht daraus, dass statt allen Arten von Feldern, lediglich zwei verwendet werden. 
+
+Die Interaktion durch den Spieler könnte dabei wie folgt aussehen: Ein Teil des Netzes wird nach und nach aufgebaut. Sobald ein Muster erkennbar ist, nachdem der Aufbau erfolgt, kann der Spieler entscheiden, wie es weiter gehen müsste. Dabei erhält der Spieler sofort Rückmeldung, ob seine Entscheidung richtig oder falsch war. So hat er Teil daran, das Netzwerk aufzubauen und kann sich die daraus entstehende Funktionalität besser einprägen und ableiten.
+
+\section{Deep Learning}
+
+\textit{Deep Learning} ist ein Themenfeld, welches in verschiedenen Formen alle Begriffe und Technologien beinhaltet, die bisher erklärt wurden. Deshalb soll es erst nach dem erfolgreichen Abschließen aller anderen Lektionen zugänglich sein. 
+
+Zu Beginn müssen dem Anwender allgemeine Dinge beigebracht werden, beispielsweise der Grund für die Bezeichnung \textit{Deep} und wichtige Erkennungsmerkmale eines \textit{Deep Learning} Algorithmus. Dabei soll mit dem Beispiel eines \textit{Neural Networks} gearbeitet werden. Da dem Nutzer die allgemeine Funktionsweise zu diesem Zeitpunkt schon bekannt ist, kann darauf aufbauend gezeigt werden, ab wann der Zusatz \textit{Deep} gewählt wird.
+
+Etwas selbst machen bleibt länger im Gedächtnis, als es nur erklärt zu bekommen und sorgt außerdem auch dafür, dass der Stoff verstanden wurde. Deshalb soll in den Lektionen zu dieser Thematik eigener Code produziert werden. Dies hat den Vorteil, dass auch die anderen bisher gelernten Grundbegriffe wieder verwendet werden und das Wissen zu ihnen gefestigt wird. Für die Umsetzung dieser Methodik soll folgender Ansatz verfolgt werden:
+
+Mithilfe einer geeigneten Bibliothek wie beispielsweise DeepLearning4Java oder Tensorflow kann gut eine im Spiel aufgesetzte Entwicklungsumgebung realisiert werden, in der der Nutzer programmieren kann. Mithilfe eines begleitenden Tutorials können die wichtigsten Ding erklärt werden. Dabei gibt es wichtige Anforderungen an das Tutorial, damit es nicht zu dem Format wird, welches das Projekt TLT verändern will. Es ist wichtig, sofort zu zeigen, was das Eingeben von bestimmtem Code auslöst. Dafür ist es nötig, eine funktionierende Simulation zu zeigen. Das Tutorial soll in der Umgebung von TLT spielen und den Nutzer vor passende Aufgaben stellen. Es soll vermieden werden, ein Anleitung abzuarbeiten, da dann die Eigenmotivation fehlt. Der Fokus soll deshalb auf Transferfragen liefern, die der Nutzer durch aufmerksames Verfolgen der Lektion beantworten kann. 
+
+Die folgende Liste enthält eine Übersicht über mögliche Beispielaufgaben. Sie werden kurz beschrieben:
+
+\begin{itemize}
+\item Dem Nutzer wird ein \textit{Deep Neural Network} gezeigt und die Umstände seiner Implementierung erläutert. Anschließend ist es seine Aufgabe, manuell zu entscheiden, wie sich das \textit{Deep Neural Network} entwickelt. Dies kann durch eine \glqq Drag and Drop\grqq{}-Bedienung oder eigenes Schreiben von Code realisiert werden.
+\item Der Nutzer soll eine bestimmte Aufgabe durch Quellcode umsetzen. \textit{"`Konfigurieren Sie das Input- und Outputlayer durch eine geeignete Wahl der Menge von Input-/Output-Neuronen"'} könnte beispielsweise eine Anweisung sein, die der Nutzer umsetzen muss. Dabei müssen ihm Informationen gegeben werden, mit denen die Aufgabe gelöst werden kann. So könnte die Größe des Triangle-Sichtfeldes ein Hinweis auf die Menge der Input-Neuronen sein und die möglichen Bewegungsrichtungen ein Hinweis auf den Output. Aufgaben in diesem Format müssen als Transferfragen umgesetzt werden. 
+\item Der Nutzer bekommt ein vorhandenes \textit{Deep Neural Network} gezeigt, welches er verstehen soll. Dabei unterstützen ihn Erklärung, die aber nur als Hilfeleistung dienen und nicht die eigene Denkleistung ersetzen sollen. Diese Ausgangslage kann in mehreren Varianten durchgeführt werden. Es könnte parallel eine Simulation einer TLT-Oberwelt gezeigt werden, bei der der Nutzer entscheiden muss ob sie ein mögliches Ergebnis für das gezeigte \textit{Deep Neural Network} ist. Alternativ kann auch verlangt werden, selbst eine passende Spielsituation in TLT nachzustellen, oder eine Oberwelt zu bauen, an der sich das \textit{Deep Neural Network} verbessern kann. Dies sind alles Beispiele für einen Einsatz, welche sich auch beliebig ausbauen lassen, um noch weitere AI-Begriffe verwenden zu können.
+\end{itemize}
+
+Der Nutzer soll in dieser Themenumgebung entwickeln. Dafür ist es je nach Bibliothek nötig, eine bestimmte Programmiersprache zu wählen. Es ist erstrebenswert, dem Nutzer die Wahl zu lassen. Soll aber wie oben genannt eine eigene Simulation aufgesetzt werden, muss sich für eine Möglichkeit entschieden werden, da das Bauen verschiedener Simulationen den zeitlichen Rahmen übersteigt. Alternativ kann aber dem Nutzer mithilfe von Referenzen oder einem eigenen kleinen Kurs innerhalb von TLT die in der Simulation verwendeten Sprache näher gebracht werden, um zumindest den Einsteig zu erleichtern. Mit der Zielgruppe Entwickler muss auch nicht bei Einsteigerthemen begonnen werden, sondern es kann direkt in die Syntax eingestiegen werden. Eine Umsetzung dieser Pläne wird im Zuge dieser Arbeit aber nicht stattfinden.
+
+\section{Einsatzgebiete}
+\label{lm_einsatzgebiete}
+
+Der Themenbereich \glqq Einsatzgebiete\grqq{} besteht hauptsächlich aus rein informativem Wissen und weniger aus Verständnisfragen. Deshalb wurde für diesen Bereich das Format eines Quiz gewählt. Der Spieler spielt sich durch das Quiz und bekommt dadurch einen guten  Überblick über die verschiedenen Einsatzgebiete von AI. Antwortet er falsch, so bekommt er weitere Informationen zu dieser Frage. Antwortet er richtig, so hat er die Option, sich weiterführende Informationen anzeigen zu lassen, oder zur nächsten Frage überzugehen. Für jede richtige Antwort bekommt der Spieler Energie.
+ 
+Weitere Merkmale der Lektion sind:
+\begin{itemize}
+\item Die Lektion kann, mit der Ausnahme von AI Allgemein, unabhängig von allen anderen Lektionen gespielt werden. Es ist somit auch keine Voraussetzung für andere Lektionen.
+\item Die Reihenfolge der Einheiten in der Lektion ist unwichtig.
+\item Beispielprojekte oder bekannte Tools zu jedem Einsatzgebiet werden in den Referenzen bereit gestellt.
+\end{itemize}

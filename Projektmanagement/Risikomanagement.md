@@ -1,4 +1,4 @@
-| Bezeichnung | Beschreibung | Auftritts-<br>wahrscheinlichkeit | erwarteter Schaden | Risikofaktor | Vorbeugende Maßnahmen | Verantwortlicher | eingetreten? |
+| Bezeichnung | Beschreibung | Auftrittsrisiko | erwarteter Schaden | Risikofaktor | Vorbeugende Maßnahmen | Verantwortlicher | eingetreten? |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Wissensproblem | zwei komplett neue Themengebiete (AI, educational game), gewünschter Sinn des Projektes wird nicht erfüllt | 50% | 100% | 50% | ausreichend Zeit einplanen für Aneignung von Wissen und Methodik sowie Durchführung | Franziska Neumann & Marco Müller | nicht eingetreten, hat aber trotzdem Einfluss auf das Projekt gehabt. Viel Zeit ging "verloren" |
 | Klausuren | Klausurvorbereitung braucht sehr viel Zeit | 50% | 70% | 35% | ordentliche YouTrack-Planung fortführen, Klausurenphase im Blick haben | Franziska Neumann | Klausuren wurden verteilt, was immer wieder Zeit geraubt hat. Gleichzeitig wurde dadurch aber Stress reduziert. Ist nicht eingetreten |

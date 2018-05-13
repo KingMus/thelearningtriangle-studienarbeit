@@ -1,9 +1,9 @@
-| Bezeichnung | Beschreibung | Auftrittswahrscheinlichkeit | erwarteter Schaden | Risikofaktor | Vorbeugende Maßnahmen | Verantwortlicher |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Wissensproblem | zwei komplett neue Themengebiete (AI, educational game), gewünschter Sinn des Projektes wird nicht erfüllt | 50% | 100% | 50% | ausreichend Zeit einplanen für Aneignung von Wissen und Methodik sowie Durchführung | Franziska Neumann & Marco Müller |
-| Klausuren | Klausurvorbereitung braucht sehr viel Zeit | 50% | 70% | 35% | ordentliche YouTrack-Planung fortführen, Klausurenphase im Blick haben | Franziska Neumann |
-| Planung | Unrealistische Zielsetzung führt zu Zeitproblemen | 50% | 50% | 25% | Retrospektiven durchführen | Marco Müller |
-| Hardware | Rechenleistung reicht nicht aus, um Algorithmen der künstlichen Intelligenz fristgerecht zu berechnen | 30% | 70% | 21% | "Rechenleistung" auslagern, DHBW-Computer (mit-)verwenden | Marco Müller |
-| Unkompatible Tools | Verschiedene Tools arbeiten nicht zusammen | 70% | 20% | 14% | andere Software verwenden, Workaround | Marco Müller |
-| Krankheit | unerwarteter Krankheitsfall im Team | 30% | 40% | 12% | Vitamine essen | Franziska Neumann |
-| Kommunikation | schlechte oder keine Kommunikation führt zu Missverständnissen, Teamschwierigkeiten | 20% | 60% | 12% | regelmäßige Treffen, in Kontakt blieben (EMail, Messenger, vor Ort in der Uni) | Franziska Neumann |
+| Bezeichnung | Beschreibung | Auftrittswahrscheinlichkeit | erwarteter Schaden | Risikofaktor | Vorbeugende Maßnahmen | Verantwortlicher | eingetreten? |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Wissensproblem | zwei komplett neue Themengebiete (AI, educational game), gewünschter Sinn des Projektes wird nicht erfüllt | 50% | 100% | 50% | ausreichend Zeit einplanen für Aneignung von Wissen und Methodik sowie Durchführung | Franziska Neumann & Marco Müller | nicht eingetreten, hat aber trotzdem Einfluss auf das Projekt gehabt. Viel Zeit ging "verloren" |
+| Klausuren | Klausurvorbereitung braucht sehr viel Zeit | 50% | 70% | 35% | ordentliche YouTrack-Planung fortführen, Klausurenphase im Blick haben | Franziska Neumann | Klausuren wurden verteilt, was immer wieder Zeit geraubt hat. Gleichzeitig wurde dadurch aber Stress reduziert. Ist nicht eingetreten |
+| Planung | Unrealistische Zielsetzung führt zu Zeitproblemen | 50% | 50% | 25% | Retrospektiven durchführen | Marco Müller | Teilweise eingetreten, da man durch einen unklaren Weg dem Ziel langsamer als möglich näher kam. Retrospektiven sorgten hierbei eher für mehr Diskussion als Nutzen. |
+| Hardware | Rechenleistung reicht nicht aus, um Algorithmen der künstlichen Intelligenz fristgerecht zu berechnen | 30% | 70% | 21% | "Rechenleistung" auslagern, DHBW-Computer (mit-)verwenden | Marco Müller | nicht aufgetreten, da im Verlauf der Arbeit nicht mehr besonders relevant |
+| Unkompatible Tools | Verschiedene Tools arbeiten nicht zusammen | 70% | 20% | 14% | andere Software verwenden, Workaround | Marco Müller | viele Tools wurden durchprobiert und keines machte wirklich glücklich. Zeit dadurch verloren neue Software zu suchen. Trat auf Kosten von Zeit nicht ein |
+| Krankheit | unerwarteter Krankheitsfall im Team | 30% | 40% | 12% | Vitamine essen | Franziska Neumann | nicht eingetreten, keine Krankheit |
+| Kommunikation | schlechte oder keine Kommunikation führt zu Missverständnissen, Teamschwierigkeiten | 20% | 60% | 12% | regelmäßige Treffen, in Kontakt blieben (EMail, Messenger, vor Ort in der Uni) | Franziska Neumann | hin und wieder Uneinigkeit und Diskussion, trat aber im Großen und Ganzen nicht ein |
